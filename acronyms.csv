@@ -1,76 +1,105 @@
 A&S,Acquisition and Sustainment
+AAD,Advanced Academic Degree
 ABU,Airman Battle Uniform
-ACA,Airman Comprehensive Assessment
+ACA,Airman Comprehensive Assessment~Some Definition
 ACAT,Acquisitions Category
+ACL,Access Control List
+ACMS,Acquisition Career Management System
 ACO,Administrating Contracting Officer
 ACRN,accounting classification  number
 ACS,Air Control Squadron
+ACSC,Air Command And Staff College
 ADM,Acquisitio Decision Memorandum
 ADO,Asst. Director of Operations
+ADSC,Active Duty Service Committment
 AECA,Arms Export Control Act
 AEF,Air & Space Expeditionary Force
 AEF,Air Expeditionary Force
+AES,Advanced Encryption Standard
 AETCI,Air Education and Training Command Instruction
 AF,Air Force
 AFB,Air Force Base
 AFCEC,Air Force Civil Engineer Center
 AFEX,Air Force Employment Exercise
 AFFARS,Air Force FAR Supplement
+AFFMS,Air Force Fitness Management System
 AFI,Air Force Instruction
 AFIT,Air Force Institute of Technology
+AFNET,Air Force Network
 AFOSI,Air Force Office of Special Investigations
 AFOSR,Air Force Office of Scientific Research
 AFOTEC,Air Force Operational Test & Evaluation Center
 AFPAAS,Air Force Personnel Accountability Assessment System
 AFPC,Air Force Personnel Command
+AFR,Air Force Reserve
 AFRL,Air Force Research Laboratory
 AFSAC,Air Force Security Assistance and Cooperation
 AFSOC,Air Force Special Operations Command
 AFTC,Air Force Test Center
 AGR,Active Guard and Reserve
+AIG,Address Indicator Group
+AIN,Advanced Intelligence Network
+AKD,Automatic Key Distribution
 ALC,Air Logistics Complex
+ALO,Accounting Liaison Office,Air Liaison Officer
 AOP,Art of the Possible
 AP,Acquisitions Plan
 APB,Acquisition Program Baseline
 APC,Academic Profile Code,Armored Personnel Carrier
 APDP,Acquisition Professional Development Program
 APZ,Above Primary Zone
+APZ,Above The Primary Zone
 ASP,Acquisitions Strategy Panel
 AT,Acceptance Testing
 AU,Air University
+AWC,Air War College
 AoA,Analysis of Alternatives
 BA,Budget Authority
 BAC,Budget at Completion
 BCA,Business Case Analysis
+BCAC,Business Capability Acquisition Lifecycle
 BCR,Budget Change Request
 BCWP,Budget Cost Work Plan
 BCWS,Budget Cost Work Schedule
 BDE,Basic Developmental Education
 BES,Budget Estimate Submission
+BPA,Blanket Purchase Agreement
 BPAC,Budget Program Activity Code
 BPR,Business Process Re-Engineering
 BPZ,Below Primary Zone
+BPZ,Below The Primary Zone
+BRS,Blended Retirement System
 C4ISR,Command Control Communication Computers Intelligence Surveillance and Reconaissance
 CA,Certificate Authority
 CAC,Common Access Card
 CAE,Component Acquisition Executive
-SAE,Service Acquisition Executive
+CAO,Contracting Administration Office
 CAP,contractor acquired property
 CAPE,Cost Assessment and Program Evaluation
+CARD,Cost Analysis Requirements Description
 CBA,Capabilities-Based Assessment
 CBO,Congressional Budget Office
 CC,Commander
+CCAF,Community College Of The Air Force
 CCAL,Certified Contractor Access List
 CCAR,
 CCB,Configuration Control Board
+CCI,Controlled Cryptographic Item
 CCJO,Capstone Concept for Joint Operations
+CCPO,Cloud Computing Program Office
+CCaR,Comprehensive Cost And Requirement System
 CD,Course Director
+CDB,Career Data Brief
 CDD,Capability Development Document
 CDO,Controlling DoD Office
 CDRL,Contract Date Requirement List
+CEOI,Communications Electronics Operating Instruction
+CEPR,Compromising Emanation Performance Requirement
 CES,Civil Engineering Squadron
 CGO,Company Grade Officer (0-1 to 0-3)
 CI,Counter Intelligence
+CICA,Competition In Contracting Act
+CIK,Crypto-ignition Key
 CIL,Critical Information List
 CITE,Center For Industrial And Technical Excellence
 CJCS,Chairman Of The Joint Chiefs Of Staff
@@ -78,9 +107,13 @@ CJOC,Combined Joint Operations Center
 CLIN,Contract Line Item Number
 CMI,Classified Military Information
 CMMI,Capability Maturity Model Integration
+CNR,Chief Of Naval Research
 CO,Contracting Officer
+COFD,Contracting Officer Final Decision
 COI,Critical Operational Issues
 COL,Continuum of Learning
+COLA,Cost Of Living Adjustment
+COMMERCIAL VIRTUAL REMOTE,
 COMSEC,Communications Security
 COOP,Continuity of Operation Plan
 COR,Chief of Office Record
@@ -94,7 +127,10 @@ CPIF,Cost Plus Incentive Fee
 CPRS,Comptroller Squadron
 CQ,Charge of Quarters
 CRB,Configuration Review Board
+CRIS,Commanders Resource Integration System
+CSP,Coalition Support Program
 CSS,Commander's Support Staff
+CTI,Controlled Technical Information
 CTP,Critical Technical Parameters
 CUI,Controlled Unclassified Information
 CUMI,Controlled Unclassified Military Information
@@ -104,41 +140,61 @@ DAB,Defense Acquisition Board
 DAE,Defense Acquisition Executive
 DAG,Defense Acquisition Guidebook
 DAMIR,Defense Acquisition Management Information Retrieval
-DAS,Defense Acquisition System
+DARPA,Defense Advanced Research Projects Agency
+DAS,Defense Acquisition System,Date Arrived on Station
 DAU,Defense Acquisition University
 DAWIA,Defense Acquisition Workforce Improvement Act
+DBRAG,Defense Basic Research Advisory Group
 DBS,Defense Business System
 DCAA,Defense Contract Audit Agency
+DCAPE,Director Of Cost Assessment And Program Evaluation
+DCID,Director Central Intelligence Directive
 DCMA,Defense Contract Management Agency
 DCO,Direct Commission Officer
+DCS,Defense Collaboration Services
 DDL,Delegation of Disclosure Letter
 DEERS,Defense Enrollment Eligibility Reporting System
+DEROS,Date Eligible To Return From Overseas
 DFAC,Dining Facility
 DFARS,DoD Federal Acquisition Regulation Supplement
 DFAS,Defense Finance and Accounting Service
 DISA,Defense Information Systems Agency
+DLA,Defense Logistics Agency
+DLAB,Defense Language Aptitude Battery
+DLE,Defense Laboratory Enterprise
 DMDC,Defense Manpower Data Center
 DMSMS,Diminishing Manufacturing Sources/material Shortages
 DNC,Drill and Ceremonies
 DO,Director of Operations
+DO,Lab Demo Payscale - Business Management Professional
 DODI,Department of Defense Instruction
+DODISS,Defense Index Of Specifications And The Standards
+DOR,Date Of Rank
 DP,Dining Priority
 DPG,Defense Planning Guidance
 DPG,Dugway Proving Grounds
+DR,Lab Demo Payscale - Scientists and Engineers
 DRFP,Development Request for Proposal
 DRU,Direct Reporting Unit
 DSCA,Defense Security Cooperation Agency
 DSOR,Depot Source Of Repair
+DSS,Defense Security Service
 DT&E,Development Test & Evaluation
 DT,Development Team
 DTRA,Defense Threat Reduction Agency
+DU,Lab Demo Payscale - Mission Support
 DV,Distinguished Visitor
+DX,Lab Demo Payscale - Technician
+DoD,Department of Defense
+DoDAAC,Department of Defense Activity Address Code
 EAA,Export Administration Act
 EAC,Estimate at Completion
 EAR,Export Administration Regulations
 ECC,Emergency Control Center
 ECCS,Expeditionary Combat Support System
+EDD,Effective Duty Date
 EES,Enlisted Evaluation System
+ELT,Extended Long Tour
 EMD,Engineering & Manufacturing Development
 EMS,Emergency Management System
 EOC,Emergency Operations Center
@@ -157,6 +213,7 @@ FAR,Federal Acquisition Regulation
 FASA,Federal Acquisitions Streamlining Act
 FAT,First Article Testing
 FBO,Federal Business Opportunities
+FCT,Foreign Comparative Testing
 FDO,Foreign Disclosur Officer
 FFP,Full Fixed Price
 FFRDC,Federally Funded Research & Development Corporation
@@ -184,12 +241,14 @@ FYDP,Future Years Defense Program
 Flt/CC,Flight Commander
 GAL,Global Address List
 GAO,Government Accountability Office
+GCPC,Government Commercial Purchase Card
 GDF,Guidance For Development Of The Force
 GFI,Government Furnished Information
 GFP,Government Furnished Property
 GO,General Officer
 GOCESS,Government Operated Civil Engineering Supply Store
 GPM,Government Program Manager
+GPR,Government Purpose Rights
 HALT,Highly Accelerated Life Testing
 HIPAA,Health Insurance Portability and Accountability Act
 HQA,Hardware Quality Audit
@@ -197,29 +256,38 @@ HRRT,Hazard Response & Recovery Team
 IBR,Integrated Baseline Reviews
 ICD,Initial Capability Document
 IDE,Intermediate Developmental Education
+IDIQ,Indefinite Delivery Indefinite Quantity
 IDMT,Independent Duty Medical Medical Technician
 IFB,Invitation for Bid
 IGCE,Independent Government Cost Estimate
 IGE,Independent Government Estimate
+IIPP,Injury And Illness Prevention Program
+IMA,Individual Mobilization Augmentee
 IMR,Individual Medical Readiness
 IPB,Initial Product Baseline
 IPMR,Integrated Program Management Report
 IPT,Integrated Product Team
 IPZ,In Primary Zone
+IPZ,In The Primary Zone
+IRR,Individual Ready Reserve
 IS,Information System
 ITAAC,Information Technology Acquisition Advisory Council
 ITAR,International Traffic in Arms Regulations
+IUID,Item Unique Identification
 J&A,Justification and Approval
 JA,Judge Advocate
+JANNAF,Joint Army Navy NASA Air Force
 JCA,Joint Capability Areas
 JCIDS,Joint Capabilities Integration & Development System
 JCO,Joint Certification Office
 JEDI,Joint Enterprise Defense Infrastructure
 JOCAS,Job Order Cost Accounting System
 JON,Job Order Number
+JPAS,Joint Personnel Adjudication System
 JPME,Joint Professional Military Education
 JROC,Joint Requirements Oversight Council
 JS,Joint Staff
+JTR,Joint Travel Regulation
 JUON,Joint Urgent Operational Need
 JUP,joint use property
 KLP,Key Leadership Position
@@ -228,14 +296,18 @@ KSA,Key System Attribute
 LCC,Life Cycle Cost
 LCSP,Life Cycle Sustainment Plan
 LDTO,Lead Development Test Organization
+LE,Law Enforcement
 LFT&E,Live-Fire Test & Evaluation
 LMCA,Logistics Management ??
 LOA,Lines of Accounting
 LOC,Lines of Code
+LPTA,Lowest Price Technically Acceptable
 LRE,Latest Revised Estimate
 LRIP,Low-Rate Initial Production
+LWOP,Leave Without Pay
 MAIS,Major Automated Information Systems
 MCSS,Military Clothing Sales Store
+MCTL,Military Critical Technologies List
 MDA,Milestone Decision Authority
 MDAP,Major Defense Acquisition Program
 MDD,Materiel Development Decision
@@ -253,6 +325,7 @@ MOC,Military Operating Center
 MOE,Measure of Effectiveness
 MOO,Maintenance Operations Officer
 MOS,Measure of Suitability
+MRL,Manufacturing Readiness Level
 MRR,Market Research Report
 MSA,Materiel Solution Analysis
 MTBF,Mean Time Between Failures
@@ -265,18 +338,23 @@ NARA,National Archives and Records Administration
 NASIC,National Air & Space Intelligence Center
 NCO,Non-Comissioned Officer
 NCOIC,Non-Commisioned Officer in Charge
+NDA,Non-disclosure Agreement
 NDAA,National Defense Authorization Act
 NDPC,National Disclosure Policy Committee
 NEPA,National Environmental Policy Act
 NFE,Non-Federal Entity
+NH,Acq Demo Payscale - Business and Technical Management Professional
 NIPRNet,Non-Classified Internet Protocol Router Network
 NISPOM,National Industrial Security Program Operating Manual
+NJ,Acq Demo Payscale - Technical Management Support
+NK,Acq Demo Payscale - Administrative Support
 NOFORN,No Foreign Nationals
 NRO/AS&T,National Reconnaissance Office Advanced Systems and Technology Directorate
 O&S,Operations and Support
 OA,Operational Assessment
 OAT,Officer Assignments Team
 OBAD,Operating Budget Authority Document
+OCI,Organizational Conflict Of Interest
 ODC,Other Direct Cost
 OES,Officer Evaluation System
 OG,Operations Group
@@ -293,9 +371,12 @@ OTO,Operational Test Organization
 P&D,Production and Deployment
 PA,Public Affairs
 PAO,Public Affairs Officer
+PAS,Political Affairs Specialist
 PCC,Physical Conditioning Center
 PCI,Physical Conditioning Instructor
 PCM,Primary Care Manager
+PCO,Procuring Contracting Officer
+PDD,Projected Departure Date
 PDE,Primary Developmental Education
 PE,Program Element
 PEC,program element code
@@ -308,13 +389,16 @@ PHAQ,Periodic Health Assessment Questionnaire
 PHI,Protected Health Information
 PI,Principal Investigator
 PIA,Privacy Impact Assessment
+PIEE,Procurement Integrated Enterprise Environment
 PII,Personally Identifiable Information
+PIV,Personal Identity Verification
 PM,Program Manager
 PMB,Performance Measurement Baseline
 PME,Professional Military Education
 PMI,preventative maintenance inspection
 PMO,Program Management Office
 POM,Program Objective Memorandum
+POR,Program Of Record
 POV,Privately Owned Vehicle
 PPBE,Planning
 PPP,Public Private Partnership
@@ -324,22 +408,32 @@ PRF,Promotion Recommendation File
 PSBM,Product Support Business Model
 PSC,Product Service Codes
 PSI,Product Support Integrator
+PSMC,Personal Statement Of Military Compensation
 PT,Physical Training
+PTAC,Procurement Technical Assistance Center
 PWS,Performance Work Statement
 PoP,Period of Performance
+QASP,Quality Assurance Surveillance Plan
 QDR,Quadrennial Defense Review
 QDR,Quality Deficiency Report
+QFD,Quality Function Development
+QRSP,Quick Reaction Special Projects
 R&D,Research and Development
 R&E,Research and Engineering
 RAM,Reliability Availability and Maintainability
 RAPTR,Rocket Propulsion Technology Research
-RAS,Regional Affairs Strategistd
+RAS,Regional Affairs Strategist
 RC,Records Custodian
+RCCC,Responsibility Center Cost Center
+RELTO,Releasable To
 RFI,Request for Information
 RFP,Request for Proposal~Request for Purchase (AF Form 9)
+RIF,Rapid Innovation Fund
 RMD,Resource Management Decision
 RPS,Research in Propulsion Sciences
 S&T,Science and Technology
+SAASS,School Of Advanced Air And Space Studies
+SAE,Service Acquisition Executive
 SAP,Special Access Program
 SAPM,Security Assistance Program Manager
 SAR,Special Access Request~Search and Rescue
@@ -348,15 +442,19 @@ SB,Small Business
 SC,Security Cooperation
 SCIF,Special Compartmentalized Information Facility
 SCM,Supply Chain Management
+SDB,Small Disadvataged Business
 SDE,Senior Developmental Education ()
 SDO,Staff Duty Officer
+SDP,Savings Deposit Program
 SDR,Software Deficiency Report
 SE,Systems Engineering
 SEMP,Systems Engineering Master Plan
 SEP,Systems Engineering Plan
 SFS,Security Forces Squadron
+SIBR,Small Business Innovative Research
 SIC,Standard Industrial Classification
 SIP,Shelter in Place
+SIPR,Secret Internet Protocol Router
 SIRPNet,Secret Internet Protocol Router Network
 SITREP,Situation Report
 SKT,Specialty Knowledge Test
@@ -370,41 +468,53 @@ SOC,Statement Of Capability
 SOCC,Site Operations Control Center
 SOO,Statement of Objectives
 SORN,System of Records Notice
+SOS,Squadron Officer School
 SOW,Statement of Work
+SPEED,Special Experience Exchange Duty
 SPI,Schedule Performance Index
 SPO,System Program Office
 SRA,Some Random Acronym
+SRB,Selective Reenlistment Bonus
 SSA,Source Selection Authority
 SSAC,Source Selection Advisory Council
 SSEB,Source Selection
+SSEB,Source Selection Evaluation Board
 SSP,Source Selection Plan
 SSS,Staff Summary Sheet~Source Selection Secret
 STINFO,Scientific and Technical Information
-SURF,Single Unit Retrieval Format
+STTR,Small Business Technology Transfer
+SURF,Single Unit Retrieval Format (aka Record Review RIP)
 SV,Schedule Variance
 Sq/CC,Squadron Commander
+T3R,Tier 3 Reinvestigation
 T4C,Termination for Convenience
 T4D,Termination for Default
+T5R,Tier 5 Reinvestigation
 TAD,Temporary Additional Duty (Navy/Marine Corps)
+TAFCS,Total Air Force Commissioned Service
 TAFMS,Total Active Federal Military Service
 TAFT,Test Analyze and Fix
 TASM,Trusted Authority Security Manager
 TASS,Trusted Authority Sponsorship System
+TCB,Trusted Computing Base
 TCO,Terminating Contract Officer
 TCPI,To Complete Performance Index
 TDY,Temporary Duty (Army/Air Force)
 TEMP,Test and Evaluation Management Plan
 TFOT,Total Force Officer Training
+TFSC,Total Force Service Center
 TIG,Time in Grade
 TIS,Time in Service
 TMRR,Technology Maturation and Risk Reduction
 TO,Technical Order
 TOC,Total Ownership Cost
 TOL,Tricare Online
+TPM,Technical Performance Measure
 TPS,Test Pilot School
 TRL,Technical Readiness Level
 TRR,Test Readiness Review
 TS/SCI,Top Secret/Sensitive Compartmented Information
+TSP,Thrift Savings Plan
 UAS,Unmanned Aerial System
 UCC,Unit Control Center
 UCF,Uniform Contract Format
@@ -422,25 +532,17 @@ USG,US Government
 UTM,Unit Training Manager
 UTTR,Utah Test and Training Range
 VAC,Variance at Completion
+VATEP,Value Adjusted Total Evaluated Price
+VOSB,Veteran Owned Small Business
 VR,Variability Reduction
 VR,Virtual Reality
 WAR,Weekly Activity Report
+WAWF,Wide Area Workflow
 WBS,Work Breakdown Structure
 WELPS,Warrior Expeditionary Leadership Problem Solving
 WIT,Wing Inspection Team
+WSTF,White Sands Test Facility
 eSSS,electronic Staff Summary Sheet
 vMPF,Virtual Military Personnel Flight
-DARPA,Defense Advanced Research Projects Agency
-ACA,Airman Comprehensive Assessment
-BPZ,Below The Primary Zone
-APZ,Above The Primary Zone
-IPZ,In The Primary Zone
-DOR,Date Of Rank
-PSMC,Personal Statement Of Military Compensation
-BRS,Blended Retirement System
-TSP,Thrift Savings Plan
-SDP,Savings Deposit Program
-LPTA,Lowest Price Technically Acceptable
-SSEB,Source Selection Evaluation Board
-PCO,Procuring Contracting Officer
-VATEP,Value Adjusted Total Evaluated Price
+ETP,Exception To Policy
+MPCN,Manpower Position Control Number
