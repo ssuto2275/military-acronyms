@@ -40,7 +40,7 @@ AGR,Active Guard and Reserve
 AIG,Address Indicator Group
 AIN,Advanced Intelligence Network
 AKD,Automatic Key Distribution
-ALC,Air Logistics Complex
+ALC,Air Logistics Complex~Assignment Limitation Codes
 ALO,Accounting Liaison Office,Air Liaison Officer
 AOP,Art of the Possible
 AP,Acquisitions Plan
@@ -82,7 +82,6 @@ CBO,Congressional Budget Office
 CC,Commander
 CCAF,Community College Of The Air Force
 CCAL,Certified Contractor Access List
-CCAR,
 CCB,Configuration Control Board
 CCI,Controlled Cryptographic Item
 CCJO,Capstone Concept for Joint Operations
@@ -154,7 +153,7 @@ DCO,Direct Commission Officer
 DCS,Defense Collaboration Services
 DDL,Delegation of Disclosure Letter
 DEERS,Defense Enrollment Eligibility Reporting System
-DEROS,Date Eligible To Return From Overseas
+DEROS,Date Eligible To Return From Overseas~Date Eligable To Return From Os
 DFAC,Dining Facility
 DFARS,DoD Federal Acquisition Regulation Supplement
 DFAS,Defense Finance and Accounting Service
@@ -546,3 +545,7 @@ eSSS,electronic Staff Summary Sheet
 vMPF,Virtual Military Personnel Flight
 ETP,Exception To Policy
 MPCN,Manpower Position Control Number
+RNLTD,Report No Later Than Date
+ODSD,Overseas Duty Selection Date
+MPF,Military Personnel Flight
+PPM,Personally Procured Move
