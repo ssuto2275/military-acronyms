@@ -1,7 +1,7 @@
 A&S,Acquisition and Sustainment
 AAD,Advanced Academic Degree
 ABU,Airman Battle Uniform
-ACA,Airman Comprehensive Assessment~Some Definition
+ACA,Airman Comprehensive Assessment
 ACAT,Acquisitions Category
 ACL,Access Control List
 ACMS,Acquisition Career Management System
@@ -153,7 +153,7 @@ DCO,Direct Commission Officer
 DCS,Defense Collaboration Services
 DDL,Delegation of Disclosure Letter
 DEERS,Defense Enrollment Eligibility Reporting System
-DEROS,Date Eligible To Return From Overseas~Date Eligable To Return From Os
+DEROS,Date Eligible To Return From Overseas
 DFAC,Dining Facility
 DFARS,DoD Federal Acquisition Regulation Supplement
 DFAS,Defense Finance and Accounting Service
@@ -169,7 +169,7 @@ DO,Lab Demo Payscale - Business Management Professional
 DODI,Department of Defense Instruction
 DODISS,Defense Index Of Specifications And The Standards
 DOR,Date Of Rank
-DP,Dining Priority
+DP,Developmental Planning~Dining Priority (OTS)
 DPG,Defense Planning Guidance
 DPG,Dugway Proving Grounds
 DR,Lab Demo Payscale - Scientists and Engineers
@@ -549,3 +549,4 @@ RNLTD,Report No Later Than Date
 ODSD,Overseas Duty Selection Date
 MPF,Military Personnel Flight
 PPM,Personally Procured Move
+AOR,Area Of Responsibility
