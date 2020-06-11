@@ -82,7 +82,7 @@ CBO,Congressional Budget Office
 CC,Commander
 CCAF,Community College Of The Air Force
 CCAL,Certified Contractor Access List
-CCB,Configuration Control Board
+CCB,Configuration Control Board~Common Core Booster
 CCI,Controlled Cryptographic Item
 CCJO,Capstone Concept for Joint Operations
 CCPO,Cloud Computing Program Office
@@ -361,7 +361,7 @@ OIG,Office Of The Inspector General
 OM,Official Memorandum
 OMB,Office of Mangement and Budget
 OPFOR,Opposing Force
-OPR,Officer Performance Report
+OPR,Officer Performance Report~Office Of Primary Responsibility
 OSD,Office of the Secretary of Defense (staff members around SECDEF)
 OSHA,Occupational Health and Safety Organization
 OSS,Operations Support Squadron
@@ -473,7 +473,7 @@ SPEED,Special Experience Exchange Duty
 SPI,Schedule Performance Index
 SPO,System Program Office
 SRA,Some Random Acronym
-SRB,Selective Reenlistment Bonus
+SRB,Selective Reenlistment Bonus~Solid Rocket Booster
 SSA,Source Selection Authority
 SSAC,Source Selection Advisory Council
 SSEB,Source Selection
@@ -530,7 +530,7 @@ USD,Under Secretary of Defense (Comptroller)
 USG,US Government
 UTM,Unit Training Manager
 UTTR,Utah Test and Training Range
-VAC,Variance at Completion
+VAC,Variance at Completion~Volts Alternating Current
 VATEP,Value Adjusted Total Evaluated Price
 VOSB,Veteran Owned Small Business
 VR,Variability Reduction
@@ -550,3 +550,53 @@ ODSD,Overseas Duty Selection Date
 MPF,Military Personnel Flight
 PPM,Personally Procured Move
 AOR,Area Of Responsibility
+ASR,Acquisition And Sustainment Review
+POC,Point Of Contact
+ATC,Applied Technology Council
+MAJCOM,Major Command
+AFMC,Air Force Materiel Command
+ROM,Read Only Memory~Range Of Motion~Rough Order Of Magnitude
+SRM,Sustainment Restoration And Modernization~Short-range Missile~Solid Rocket Motor
+NAWS,Naval Air Warfare Station
+CST,Combined System Test
+IAW,In Accordance With
+AFMS,Air Force Medical Service
+CFM,Career Field Manager
+AMA,Ask Me Anything
+ELV,Expendable Launch Vehicle
+INU,Inertial Navigation Unit
+FTINU,Fault Tolerant Inertial Navigation Unit
+LEO,Low Earth Orbit
+EDS,Emergency Detection System
+FRQ,Free Response Question
+RFQ,Request For Quotation
+ESD,Electrostatic Discharge
+VML,Vulnerable To Move List
+MAP,Marketplace Assignment Preferences
+LAF,Line Of The Air Force
+ADLS,Advanced Distributed Learning Service
+ADL,Advanced Distributed Learning
+PBSA,Performance Based Services Acquisition
+MORD,Miscellaneous Obligation Reimbursement Document
+IOC,Initial Operational Capability
+FLPP,Foreign Language Proficiency Pay
+FLPB,Foreign Language Proficiency Bonus
+DLPT,Defense Language Proficiency Test
+OPI,Oral Proficiency Interview (for Foreign Language)
+CED,Contingency Exercise And Deployment
+GIG,Global Information Grid
+PSDM,Personnel Services Delivery Memorandum
+CHES,Certified Health Education Specialist
+UFN,Until Further Notice
+FRC,Funds Request & Cerfication
+ODL,Open Document Listing
+GBSD,Ground Based Strategic Deterrent
+HFD,Hazardous Fragment Distance
+DESR,Defense Explosive Safety Regulation
+ESP,Explosive Site Plan
+IBD,Isolation By Distance
+EFL,Explosive Facility License
+LN2,Liquid Nitrogen
+SOP,Standard Operating Procedure
+ABSS,Automated Business Services System
+CVR,Commercial Virtual Remote
